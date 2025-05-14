@@ -1,4 +1,5 @@
 SNAKE GAME TASK:
+
 OBJECTIVE:
 1. Player Control: Allow the player to control a snake's movement on a grid.
 2. Food Interaction: Implement the appearance of food for the snake to consume and grow.
